@@ -1,1 +1,2 @@
 print("I want to kill the world")
+print("Hello world")
